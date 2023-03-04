@@ -8,7 +8,7 @@ Mainly self-taught programmer with a huge passion for programming.
 
 
 
-https://github-profile-trophy.vercel.app/?username=amarupd&theme=flat
+[![trophy](https://github-profile-trophy.vercel.app/?username=amarupd)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working with MyMaster11 as Backend Developer
 - 🌱 I’m currently learning .NET
