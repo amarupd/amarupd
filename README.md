@@ -1,5 +1,5 @@
 ### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi guys I'm Amar Dutt Upadhyay
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width=200 height=200>
+<img align='right' src='https://tenor.com/view/baby-yoda-gif-19585814' width=200 height=200>
 I am from Varanasi, India and i did my post graduation (MCA) from GCET.
 Mainly self-taught programmer with a huge passion for programming.
 
