@@ -3,6 +3,10 @@ I am from Varanasi, India and i did my post graduation (MCA) from GCET.
 Mainly self-taught programmer with a huge passion for programming.
 
 📚 MCA from ( from Galgotia's college of engineering and technology , greater noida)
+<br><br>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachappab" alt="rachappab" /></a> </p>
 
 
 
