@@ -31,9 +31,10 @@ Mainly self-taught programmer with a huge passion for programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/amar-upd/" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/linkedin.png" alt="rachappabiradar6" height="30" width="40" /></a>
-<a href="https://twitter.com/amar_upd" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/logo-twitter-png-5860.png" alt="rachappabiradar6" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/amar_upd/" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/logo-instagram-png-2445.png" alt="rachappabiradar6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amar-upd/" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/linkedin-logo-png-1853-512x512.ico
+" alt="amarupd" height="30" width="40" /></a>
+<a href="https://twitter.com/amar_upd" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/logo-twitter-png-5860.png" alt="amarupd" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/amar_upd/" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/logo-instagram-png-2445.png" alt="amarupd" height="30" width="40" /></a>
 </p>
 
 
