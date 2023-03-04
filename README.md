@@ -15,6 +15,9 @@ Mainly self-taught programmer with a huge passion for programming.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amarupd&margin-w=15)](https://github.com/amarupd/github-profile-trophy)
 
+
+<br><br>
+
 - 🔭 I’m currently working with MyMaster11 as Backend Developer
 - 🌱 I’m currently learning .NET
 - 💬 Ask me about Nodejs Expressjs C JAVA Cpp MySql Mongodb
