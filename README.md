@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Hi guys I'm Amar Dutt Upadhyay
+I am from Varanasi, India and i did my post graduation (MCA) from GCET.
+Mainly self-taught programmer with a huge passion for programming.
 
-Here are some ideas to get you started:
+📚 MCA from ( from Galgotia's college of engineering and technology , greater noida)
+
+
+
+
+
+https://github-profile-trophy.vercel.app/?username=amarupd&theme=flat
 
 - 🔭 I’m currently working with MyMaster11 as Backend Developer
 - 🌱 I’m currently learning .NET
@@ -8,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: amarduttupadhyay@gmail.com
 - ⚡ Fun fact: all the stickers you see down is coded with github.
 
-https://github-profile-trophy.vercel.app/?username=amarupd&theme=flat
