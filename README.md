@@ -34,7 +34,7 @@ Mainly self-taught programmer with a huge passion for programming.
 <a href="https://www.linkedin.com/in/amar-upd/" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="amarupd" height="40" width="40" /></a>
 <a href="https://twitter.com/amar_upd" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/icons8-twitter.gif" alt="amarupd" height="40" width="40" /></a>
   <a href="https://www.instagram.com/amar_upd/" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/icons8-instagram.gif" alt="amarupd" height="40" width="40" /></a>
-  <a href="mailto:amarduttupadhyay@gmail.com" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/icons8-gmail-logo.gif" alt="amarupd" height="30" width="40" /></a>
+  <a href="mailto:amarduttupadhyay@gmail.com" target="blank"><img align="center" src="https://github.com/amarupd/textutils/blob/master/src/icons8-gmail-logo.gif" alt="amarupd" height="30" width="30" /></a>
 </p>
 
 
