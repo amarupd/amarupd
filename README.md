@@ -1,16 +1,14 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi guys I'm Amar Dutt Upadhyay
 <img align='right' src='https://github.com/amarupd/textutils/blob/master/src/baby-yoda.gif' width=200 height=200>
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi guys I'm Amar Dutt Upadhyay
 I am from Varanasi, India and i did my post graduation (MCA) from GCET.
 Mainly self-taught programmer with a huge passion for programming.
 
 📚 MCA from ( from Galgotia's college of engineering and technology , greater noida)
-<br><br>
-
+<br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amarupd&margin-w=15)](https://github.com/amarupd/github-profile-trophy)
 
-
-<br><br>
+<br>
 
 - 🔭 I’m currently working with MyMaster11 as Backend Developer
 - 🌱 I’m currently learning .NET
