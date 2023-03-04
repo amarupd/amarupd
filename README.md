@@ -21,6 +21,10 @@ Mainly self-taught programmer with a huge passion for programming.
 - 📫 How to reach me: amarduttupadhyay@gmail.com
 - ⚡ Fun fact: all the stickers you see down is coded with github.
 
+
+<br><br>
+
+
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=amarupd&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarupd&layout=compact" />
