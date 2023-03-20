@@ -52,4 +52,6 @@ Mainly self-taught programmer with a huge passion for programming.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amarupd&show_icons=true&theme=buefy" alt="amarupd"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarupd&layout=compact" alt="amarupd" /></p>
 <br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&" alt="amarupd" /></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=DSA-with-C" alt="amarupd" /></p>
 
