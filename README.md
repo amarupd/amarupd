@@ -59,20 +59,20 @@ Mainly self-taught programmer with a huge passion for programming.
 <br>
 <br>
 <a href="https://github.com/amarupd/DSA-with-C">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=DSA-with-C&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=DSA-with-C&theme=solarized-light" />
 </a>
 <a href="https://github.com/amarupd/weatherapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=weatherapp&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=weatherapp&theme=solarized-light" />
 </a>
 <a href="https://github.com/amarupd/userbase">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=userbase&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=userbase&theme=solarized-light" />
 </a>
 <a href="https://github.com/amarupd/scramble-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=scramble-game&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=scramble-game&theme=solarized-light" />
 </a>
 <a href="https://github.com/amarupd/nodedatabase">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=nodedatabase&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=nodedatabase&theme=solarized-light" />
 </a>
 <a href="https://github.com/amarupd/redis-conn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=redis-conn&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=redis-conn&theme=solarized-light" />
 </a>
