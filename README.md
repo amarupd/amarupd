@@ -51,7 +51,7 @@ Mainly self-taught programmer with a huge passion for programming.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amarupd&show_icons=true&theme=buefy" alt="amarupd"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarupd&layout=compact" alt="amarupd" /></p>
 <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&" alt="amarupd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&" alt="amarupd" /></p>
 <br>
 <br>
 <br>
@@ -59,20 +59,20 @@ Mainly self-taught programmer with a huge passion for programming.
 <br>
 <br>
 <a href="https://github.com/amarupd/DSA-with-C">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=DSA-with-C&theme=solarized-light" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=DSA-with-C&theme=vue" />
 </a>
 <a href="https://github.com/amarupd/weatherapp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=weatherapp&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=weatherapp&theme=vue" />
 </a>
 <a href="https://github.com/amarupd/userbase">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=userbase&theme=solarized-light" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=userbase&theme=vue" />
 </a>
 <a href="https://github.com/amarupd/scramble-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=scramble-game&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=scramble-game&theme=vue" />
 </a>
 <a href="https://github.com/amarupd/nodedatabase">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=nodedatabase&theme=solarized-light" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=nodedatabase&theme=vue" />
 </a>
 <a href="https://github.com/amarupd/redis-conn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=redis-conn&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=redis-conn&theme=vue" />
 </a>
