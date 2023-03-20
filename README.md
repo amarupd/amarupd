@@ -53,11 +53,6 @@ Mainly self-taught programmer with a huge passion for programming.
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&" alt="amarupd" /></p>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <a href="https://github.com/amarupd/DSA-with-C">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=DSA-with-C&theme=vue" />
 </a>
