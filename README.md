@@ -70,4 +70,9 @@ Mainly self-taught programmer with a huge passion for programming.
 <a href="https://github.com/amarupd/scramble-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=scramble-game&theme=buefy" />
 </a>
-
+<a href="https://github.com/amarupd/nodedatabase">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=nodedatabase&theme=buefy" />
+</a>
+<a href="https://github.com/amarupd/redis-conn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amarupd&repo=redis-conn&theme=buefy" />
+</a>
