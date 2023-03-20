@@ -53,3 +53,4 @@ Mainly self-taught programmer with a huge passion for programming.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarupd&show_icons=true&locale=en&layout=compact" alt="amarupd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&" alt="amarupd" /></p>
+[![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarupd)](https://github.com/amarupd/github-readme-stats)
