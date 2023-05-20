@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"><img align='right' src='https://github.com/amarupd/textutils/blob/master/src/devops2.gif' width=250 height=200> Hi guys I'm Amar Dutt Upadhyay
+### <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi guys I'm Amar Dutt Upadhyay <img align='right' src='https://github.com/amarupd/textutils/blob/master/src/devops2.gif' width=250 height=200>
 
 I am from Varanasi, India and i did my post graduation (MCA) from GCET.
 Mainly self-taught programmer with a huge passion for programming.
