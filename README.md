@@ -4,11 +4,7 @@ Mainly self-taught programmer with a huge passion for programming.
 
 
 📚 MCA from ( from Galgotia's college of engineering and technology , greater noida)
-<br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amarupd&margin-w=15)](https://github.com/amarupd/github-profile-trophy)
-
-<br>
 
 - 🔭 I’m currently working with MyMaster11 as Backend Developer
 - 🌱 I’m currently learning ReactJS
