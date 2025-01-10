@@ -3,7 +3,6 @@ I am from Varanasi, India and i did my post graduation (MCA) from GCET.
 Mainly self-taught programmer with a huge passion for programming.
 
 <br>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=amarupd&margin-w=15)](https://github.com/amarupd/github-profile-trophy)
 
 <br>
