@@ -234,16 +234,11 @@ Features:
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/home.png"/></td>
-<td><img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/product_details.png"/></td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/cart_and_products.png"/></td>
 <td><img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/promotions.png"/></td>
 </tr>
 <tr>
-<td colspan="2">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/admin.png"/>
-</td>
+<td><img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/cart_and_products.png"/></td>
+<td><img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/admin.png"/></td>
 </tr>
 </table>
 
