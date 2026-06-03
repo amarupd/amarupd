@@ -38,9 +38,9 @@ Building scalable backend systems, real-time applications, ecommerce platforms, 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -52,7 +52,7 @@ Building scalable backend systems, real-time applications, ecommerce platforms, 
 
 ---
 
-## 👨‍💻 About Me
+## 💼 Experience Snapshot
 
 ```yaml
 Experience: 4+ Years
@@ -60,13 +60,18 @@ Experience: 4+ Years
 Current Role:
   Software Development Engineer
 
-Specialization:
-  - Backend Engineering
-  - Distributed Systems
-  - Real-Time Applications
-  - Ecommerce Platforms
+Core Expertise:
+  - Node.js
+  - NestJS
+  - ExpressJS
+  - ReactJS
+  - NextJS
+  - Redis
+  - RabbitMQ
+  - Kafka
+  - AWS
 
-Current Products:
+Products Delivered:
   - Sportswiz
   - MyMaster11
   - Opinion Trading
@@ -100,14 +105,14 @@ Current Products:
 
 ## 🚀 Production Platforms
 
-| Platform | Live URL | Description | Stack |
-|-----------|----------|-------------|--------|
-| 🏏 Sportswiz | https://sportswiz.live | Real-Time Cricket Information Platform | NestJS, Redis, RabbitMQ |
-| 🎮 MyMaster11 | Fantasy Sports Platform | Dream11-like Ecosystem | Node.js, Redis, Socket.IO |
-| 📈 Opinion Trading | Private Product | Prediction Trading Platform | Node.js, RabbitMQ |
-| 🛒 Sportswiz Ecommerce | https://shop-sportswiz.vercel.app/shop | Complete Ecommerce Ecosystem | Next.js, AdonisJS |
-| 🛍️ Truselect | https://www.truselect.in | Production Ecommerce Store | Next.js, Node.js |
-| 🏨 SeeCity Destination | https://www.seecitydestination.com | Travel Platform | React, Node.js |
+| Platform | Live | Description |
+|-----------|------|-------------|
+| 🏏 Sportswiz | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://sportswiz.live) | Real-Time Cricket Information Platform |
+| 🎮 MyMaster11 | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Fantasy Sports Ecosystem |
+| 📈 Opinion Trading | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Prediction Trading Platform |
+| 🛒 Sportswiz Ecommerce | [![Live](https://img.shields.io/badge/Live-Visit-success?style=flat-square)](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem |
+| 🛍️ Truselect | [![Live](https://img.shields.io/badge/Live-Visit-success?style=flat-square)](https://www.truselect.in) | Production Ecommerce Store |
+| 🏨 SeeCity Destination | [![Live](https://img.shields.io/badge/Live-Visit-success?style=flat-square)](https://www.seecitydestination.com) | Travel & Destination Platform |
 
 ---
 
@@ -153,46 +158,6 @@ Current Products:
 
 ---
 
-## 🏗 Engineering Expertise
-
-```yaml
-Architecture:
-  - Monolithic
-  - Modular Monolith
-  - Microservices
-  - Event Driven Systems
-
-Backend:
-  - Node.js
-  - NestJS
-  - ExpressJS
-  - AdonisJS
-
-Realtime:
-  - Socket.IO
-  - WebSockets
-
-Messaging:
-  - RabbitMQ
-  - Kafka
-  - BullMQ
-
-Databases:
-  - MySQL
-  - MongoDB
-  - Redis
-
-Cloud:
-  - AWS
-  - Docker
-  - EC2
-  - S3
-  - PM2
-  - Nginx
-```
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -200,18 +165,6 @@ Cloud:
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarupd&theme=tokyo-night&hide_border=true"/>
 
 </p>
-
----
-
-## 🎯 Current Focus
-
-- High Scale Backend Systems
-- Distributed Systems
-- Event Driven Architecture
-- Cloud Native Applications
-- AI Assisted Development
-- System Design
-- Performance Optimization
 
 ---
 
@@ -223,7 +176,7 @@ Cloud:
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 <p align="center">
 
