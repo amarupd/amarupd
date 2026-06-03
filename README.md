@@ -6,8 +6,16 @@
 
 ### Full Stack Software Engineer • Node.js Specialist • System Design Enthusiast
 
-<p>
-Building scalable backend systems, real-time applications, ecommerce platforms, and cloud-native products.
+<p align="center">
+Full Stack Software Engineer with 4+ years of professional experience building and scaling production-grade software solutions. Specialized in backend engineering, distributed systems, real-time applications, and cloud-native architectures. Proven experience delivering high-performance platforms across fantasy sports, live scoring systems, ecommerce ecosystems, opinion trading platforms, and enterprise applications.
+</p>
+
+<p align="center">
+Strong expertise in Node.js, NestJS, Express.js, React.js, Next.js, MySQL, MongoDB, Redis, RabbitMQ, Kafka, AWS, Docker, and modern software development practices. Passionate about designing scalable systems, optimizing application performance, implementing event-driven architectures, and transforming complex business requirements into reliable, user-centric products.
+</p>
+
+<p align="center">
+Currently focused on building next-generation digital experiences through scalable backend services, modern frontend applications, AI-assisted development workflows, and robust cloud infrastructure.
 </p>
 
 <p>
@@ -96,8 +104,6 @@ Products Delivered:
 </p>
 
 ---
-
-## 🚀 Production Platforms
 
 ## 🚀 Production Platforms
 
