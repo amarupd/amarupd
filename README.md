@@ -99,14 +99,16 @@ Products Delivered:
 
 ## 🚀 Production Platforms
 
-| Platform | Live | Description |
-|-----------|------|-------------|
-| 🏏 Sportswiz | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://sportswiz.live) | Real-Time Cricket Information Platform |
-| 🎮 MyMaster11 | [![Live](https://img.shields.io/badge/Live-MyMaster11-success?style=flat-square)](https://www.mymaster11.com) | Fantasy Sports Ecosystem |
-| 📈 Opinion Trading | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Prediction Trading Platform |
-| 🛒 Sportswiz Ecommerce | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem |
-| 🛍️ Truselect | [![Live](https://img.shields.io/badge/Live-Truselect-success?style=flat-square)](https://www.truselect.in) | Production Ecommerce Store |
-| 🏨 SeeCity Destination | [![Live](https://img.shields.io/badge/Live-SeeCityDestination-success?style=flat-square)](https://www.seecitydestination.com) | Travel & Destination Platform |
+## 🚀 Production Platforms
+
+| Platform | Live | Description | Tech Stack |
+|-----------|------|-------------|------------|
+| 🏏 Sportswiz | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://sportswiz.live) | Real-Time Cricket Information Platform | NestJS • Next.js • Redis • RabbitMQ • MySQL • Socket.IO |
+| 🎮 MyMaster11 | [![Live](https://img.shields.io/badge/Live-MyMaster11-success?style=flat-square)](https://www.mymaster11.com) | Fantasy Sports Ecosystem | Node.js • Express.js • Redis • MySQL • Socket.IO |
+| 📈 Opinion Trading | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Prediction Trading Platform | Node.js • Redis • RabbitMQ • MySQL • Socket.IO |
+| 🛒 Sportswiz Ecommerce | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem | Next.js • AdonisJS • MySQL • Zustand • MUI |
+| 🛍️ Truselect | [![Live](https://img.shields.io/badge/Live-Truselect-success?style=flat-square)](https://www.truselect.in) | Production Ecommerce Store | Next.js • Node.js • Express.js • MySQL • Redis |
+| 🏨 SeeCity Destination | [![Live](https://img.shields.io/badge/Live-SeeCityDestination-success?style=flat-square)](https://www.seecitydestination.com) | Travel & Destination Platform | React.js • Node.js • Express.js • MySQL |
 
 ---
 
