@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/banners/hero-banner.png" width="10%" />
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/banners/hero-banner.png" width="65%" />
 
 # Amar Dutt Upadhyay
 
@@ -44,9 +44,9 @@ Current Role:
 
 Specialization:
   - Backend Engineering
-  - Scalable Architectures
+  - Distributed Systems
   - Real-Time Applications
-  - Ecommerce Systems
+  - Ecommerce Platforms
 
 Current Products:
   - Sportswiz
@@ -82,86 +82,78 @@ Current Products:
 
 ## 🚀 Production Platforms
 
-| Platform | Live URL | Description | Tech |
-|-----------|----------|-------------|------|
-| 🏏 Sportswiz | [Visit](https://sportswiz.live) | Live Cricket Ecosystem | NestJS, Redis, RabbitMQ |
-| 🎮 MyMaster11 | [Visit](https://mymaster11.com) | Fantasy Sports Platform | Node.js, Redis, Socket.IO |
-| 📈 Opinion Trading | Private Product | Prediction Market Platform | Node.js, RabbitMQ |
-| 🛒 Sportswiz Ecommerce | [Visit](https://shop-sportswiz.vercel.app/shop) | Ecommerce Ecosystem | Next.js, NodeJS, Adonisjs |
-| 🛍️ Truselect | [Visit](https://www.truselect.in) | Production Ecommerce Store | Next.js, Node.js |
-| 🏨 SeeCity Destination | [Visit](https://www.seecitydestination.com) | Travel Platform | React, Node.js |
+| Platform | Live URL | Description |
+|-----------|----------|-------------|
+| 🏏 Sportswiz | [sportswiz.live](https://sportswiz.live) | Real-Time Cricket Information Platform |
+| 🎮 MyMaster11 | Fantasy Sports Platform | Dream11-like Ecosystem |
+| 📈 Opinion Trading | Private Product | Prediction Trading Platform |
+| 🛒 Sportswiz Ecommerce | [Visit Shop](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem |
+| 🛍️ Truselect | [truselect.in](https://www.truselect.in) | Production Ecommerce Store |
+| 🏨 SeeCity Destination | [Visit Site](https://www.seecitydestination.com) | Travel & Destination Platform |
 
 ---
 
-# 🏏 Sportswiz
+## 🏏 Sportswiz
 
 <p align="center">
-<a href="https://sportswiz.live">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/home.png" width="48%"/>
-</a>
-<a href="https://sportswiz.live">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/news.png" width="48%"/>
-</a>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/home.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/news.png" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/blogs.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/admin.png" width="48%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/blogs.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/admin.png" width="49%"/>
 </p>
 
 ---
 
-# 🛒 Sportswiz Ecommerce
+## 🛒 Sportswiz Ecommerce
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/home.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/promotions.png" width="48%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/home.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/promotions.png" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/cart_and_products.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/admin.png" width="48%"/>
-</p>
-
----
-
-# 🛍️ Truselect
-
-<p align="center">
-<a href="https://www.truselect.in">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/home.png" width="48%"/>
-</a>
-<a href="https://www.truselect.in">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/products.png" width="48%"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/footer.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/admin.png" width="48%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/cart_and_products.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/admin.png" width="49%"/>
 </p>
 
 ---
 
-# 🎮 MyMaster11
+## 🛍️ Truselect
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/mymaster11/home.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/mymaster11/website.png" width="48%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/home.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/products.png" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/footer.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/admin.png" width="49%"/>
 </p>
 
 ---
 
-# 🏨 SeeCity Destination
+## 🎮 MyMaster11
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/gallery.png" width="48%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/mymaster11/home.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/mymaster11/website.png" width="49%"/>
+</p>
+
+---
+
+## 🏨 SeeCity Destination
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/gallery.png" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="48%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="48%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="49%"/>
 </p>
 
 ---
@@ -206,15 +198,7 @@ Cloud:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
 
@@ -224,7 +208,7 @@ Cloud:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amarupd&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amarupd&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -238,6 +222,7 @@ Cloud:
 - Cloud Native Applications
 - AI Assisted Development
 - System Design
+- Performance Optimization
 
 ---
 
