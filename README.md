@@ -1,172 +1,246 @@
-<h1 align="center">Hi 👋, I'm Amar Dutt Upadhyay</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Software Engineer | Node.js Specialist | Building Scalable Products
-</h3>
+# Amar Dutt Upadhyay
 
-<p align="center">
-Software Development Engineer with 4+ years of experience designing and developing production-grade applications using Node.js, NestJS, Express.js, React.js, Next.js, MySQL, Redis, AWS, Docker, RabbitMQ, Kafka, and modern cloud technologies.
-</p>
+### Full Stack Software Engineer • Node.js Specialist • System Design Enthusiast
 
----
+<img src="YOUR_BANNER_URL_HERE" width="100%" />
 
-## 🚀 About Me
+<br>
 
-- 💼 Software Development Engineer @ Masterwiz Technologies Pvt. Ltd.
-- 🔥 4+ Years of Professional Experience
-- 🌍 Based in India
-- ⚙️ Specialized in Backend Engineering & Scalable Architectures
-- 🚀 Building Production-Grade SaaS, Ecommerce & Real-Time Applications
-- 🧠 Passionate about System Design, Distributed Systems & Performance Optimization
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amar-upd/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amarduttupadhyay@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://www.truselect.in/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amarupd)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
+
+Software Development Engineer with **4+ years of experience** building production-grade platforms used by thousands of users.
+
+Specialized in:
+
+- High Performance Node.js Applications
+- Scalable Backend Systems
+- Real-Time Architectures
+- Ecommerce Platforms
+- Distributed Systems
+- Cloud Deployments
+
+Currently working on:
+
+- 🏏 Sportswiz Cricket Platform
+- 🛒 Sportswiz Ecommerce
+- 🛍️ Truselect Ecommerce
+- 📈 Opinion Trading Platform
+
+---
+
+# ⚡ Core Technology Stack
+
+<div align="center">
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=for-the-badge&logo=adonisjs)
+![NodeJS](https://skillicons.dev/icons?i=nodejs,nestjs,express)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts)
 
-### Databases
+### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Database](https://skillicons.dev/icons?i=mysql,mongodb,redis)
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Devops](https://skillicons.dev/icons?i=aws,docker,git)
 
-### Messaging & Real Time
+### Messaging & Realtime
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io)
+![Realtime](https://skillicons.dev/icons?i=rabbitmq,kafka)
+
+</div>
 
 ---
 
-## 🏆 Featured Production Projects
+# 🚀 Featured Production Projects
 
-### 🏏 Sportswiz Live Cricket Platform
+## 🏏 Sportswiz Cricket Platform
 
-Production-grade cricket ecosystem featuring:
+Live cricket ecosystem featuring:
 
-- Live Scoring Engine
+- Real-Time Scoring
 - Fantasy Sports Integration
-- Real-Time Match Updates
-- Player Analytics
-- Admin Management System
+- Match Analytics
+- Player Statistics
+- Admin Management
 
-**Tech Stack**
+### Live Platform
 
-Node.js • Redis • Socket.IO • MySQL • Next.js
+https://sportswiz.live
+
+<br>
+
+<img src="SPORTSWIZ_SCREENSHOT_URL" width="100%"/>
 
 ---
 
-### 🛒 Sportswiz Ecommerce Platform
+## 🛒 Sportswiz Ecommerce Platform
 
-Complete Ecommerce Solution:
+Complete Ecommerce Ecosystem
+
+Features:
 
 - Customer Website
 - Admin Dashboard
-- Order Management
-- Inventory Management
 - Coupon Engine
-- Address Management
-- Checkout Flow
+- Inventory Management
+- Checkout System
+- Order Tracking
 
-**Tech Stack**
+<br>
 
-Next.js • AdonisJS • MySQL • Zustand • MUI
+<img src="SPORTSWIZ_ECOMMERCE_URL" width="100%"/>
 
 ---
 
-### 🛍️ Truselect Ecommerce Platform
+## 🛍️ Truselect Ecommerce
 
-Enterprise Ecommerce Platform:
+Live Production Ecommerce Store
 
-- Product Catalog
-- Advanced Filtering
-- Customer Management
+### Live Website
+
+https://www.truselect.in
+
+Features:
+
+- Advanced Product Catalog
 - Secure Checkout
-- Admin Operations
+- User Accounts
+- Wishlist
+- Address Management
 
-**Tech Stack**
+<br>
 
-Next.js • React.js • Node.js • Redis • MySQL
+<img src="TRUSELECT_SCREENSHOT_URL" width="100%"/>
 
 ---
 
-### 📈 Opinion Trading Platform
+## 📈 Opinion Trading Platform
 
-Real-Time Trading Platform:
+Real-Time Trading Platform
+
+Features:
 
 - Live Market Engine
 - WebSocket Infrastructure
 - Real-Time Settlement
-- High Performance APIs
+- Scalable APIs
 
-**Tech Stack**
+<br>
 
-Node.js • Redis • Socket.IO • MySQL
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&theme=tokyonight&hide_border=true" />
-</p>
+<img src="OPINION_SCREENSHOT_URL" width="100%"/>
 
 ---
 
-## 📈 Engineering Interests
+# 🏗️ Engineering Expertise
+
+```yaml
+Architecture:
+  - Monolithic Systems
+  - Modular Monolith
+  - Microservices
+
+Backend:
+  - Node.js
+  - NestJS
+  - Express.js
+  - AdonisJS
+
+Caching:
+  - Redis
+  - Query Optimization
+
+Realtime:
+  - Socket.IO
+  - WebSockets
+
+Queues:
+  - RabbitMQ
+  - Kafka
+
+Databases:
+  - MySQL
+  - MongoDB
+
+Cloud:
+  - AWS
+  - Docker
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarupd&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amarupd&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amarupd&theme=algolia&no-frame=true&margin-w=15)](https://github.com/amarupd)
+
+</div>
+
+---
+
+# 📈 Current Focus
 
 - System Design
-- Microservices Architecture
 - Distributed Systems
-- Event Driven Architecture
-- Performance Optimization
-- Database Scaling
-- Caching Strategies
-- Cloud Infrastructure
-- High Traffic Applications
+- High Scale Backend Engineering
+- Cloud Native Applications
+- Event Driven Architectures
+- AI Assisted Development
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Let's Connect
 
-<p align="center">
-<a href="https://www.linkedin.com/in/amar-upd">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
+<div align="center">
 
 <a href="mailto:amarduttupadhyay@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amar-upd/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/amarupd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-<p align="center">
-⚡ Building scalable products one commit at a time.
-</p>
+<div align="center">
+
+### Building scalable products one commit at a time 🚀
+
+</div>
