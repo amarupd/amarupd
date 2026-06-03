@@ -44,12 +44,6 @@ Building scalable backend systems, real-time applications, ecommerce platforms, 
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amarupd&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 💼 Experience Snapshot
@@ -108,7 +102,7 @@ Products Delivered:
 | Platform | Live | Description |
 |-----------|------|-------------|
 | 🏏 Sportswiz | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://sportswiz.live) | Real-Time Cricket Information Platform |
-| 🎮 MyMaster11 | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Fantasy Sports Ecosystem |
+| 🎮 MyMaster11 | [![Live](https://img.shields.io/badge/Private-Internal-orange?style=flat-square)](https://www.mymaster11.com) | Fantasy Sports Ecosystem |
 | 📈 Opinion Trading | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Prediction Trading Platform |
 | 🛒 Sportswiz Ecommerce | [![Live](https://img.shields.io/badge/Live-Visit-success?style=flat-square)](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem |
 | 🛍️ Truselect | [![Live](https://img.shields.io/badge/Live-Visit-success?style=flat-square)](https://www.truselect.in) | Production Ecommerce Store |
