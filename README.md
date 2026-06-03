@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/banners/hero-banner.png" width="65%" />
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/banners/hero-banner.png" width="10%" />
 
 # Amar Dutt Upadhyay
 
@@ -31,6 +31,24 @@ Building scalable backend systems, real-time applications, ecommerce platforms, 
 <img src="https://komarev.com/ghpvc/?username=amarupd&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amarupd&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -82,14 +100,14 @@ Current Products:
 
 ## 🚀 Production Platforms
 
-| Platform | Live URL | Description |
-|-----------|----------|-------------|
-| 🏏 Sportswiz | [sportswiz.live](https://sportswiz.live) | Real-Time Cricket Information Platform |
-| 🎮 MyMaster11 | Fantasy Sports Platform | Dream11-like Ecosystem |
-| 📈 Opinion Trading | Private Product | Prediction Trading Platform |
-| 🛒 Sportswiz Ecommerce | [Visit Shop](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem |
-| 🛍️ Truselect | [truselect.in](https://www.truselect.in) | Production Ecommerce Store |
-| 🏨 SeeCity Destination | [Visit Site](https://www.seecitydestination.com) | Travel & Destination Platform |
+| Platform | Live URL | Description | Stack |
+|-----------|----------|-------------|--------|
+| 🏏 Sportswiz | https://sportswiz.live | Real-Time Cricket Information Platform | NestJS, Redis, RabbitMQ |
+| 🎮 MyMaster11 | Fantasy Sports Platform | Dream11-like Ecosystem | Node.js, Redis, Socket.IO |
+| 📈 Opinion Trading | Private Product | Prediction Trading Platform | Node.js, RabbitMQ |
+| 🛒 Sportswiz Ecommerce | https://shop-sportswiz.vercel.app/shop | Complete Ecommerce Ecosystem | Next.js, AdonisJS |
+| 🛍️ Truselect | https://www.truselect.in | Production Ecommerce Store | Next.js, Node.js |
+| 🏨 SeeCity Destination | https://www.seecitydestination.com | Travel Platform | React, Node.js |
 
 ---
 
@@ -135,29 +153,6 @@ Current Products:
 
 ---
 
-## 🎮 MyMaster11
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/mymaster11/home.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/mymaster11/website.png" width="49%"/>
-</p>
-
----
-
-## 🏨 SeeCity Destination
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/gallery.png" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="49%"/>
-</p>
-
----
-
 ## 🏗 Engineering Expertise
 
 ```yaml
@@ -198,13 +193,7 @@ Cloud:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amarupd&theme=tokyonight&hide_border=true"/>
-
-</p>
+## 📈 Contribution Activity
 
 <p align="center">
 
@@ -223,6 +212,14 @@ Cloud:
 - AI Assisted Development
 - System Design
 - Performance Optimization
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/amarupd/amarupd/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
