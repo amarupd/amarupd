@@ -163,10 +163,10 @@ Products Delivered:
 ## 🛍️ SeeCityDestination
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="24%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="24%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="24%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/admin.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/admin.png" width="25%"/>
 </p>
 
 <!-- <p align="center">
