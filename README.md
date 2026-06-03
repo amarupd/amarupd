@@ -121,58 +121,47 @@ Products Delivered:
 ## 🏏 Sportswiz
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/home.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/news.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/home.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/news.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/blogs.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/admin.png" width="24%"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/blogs.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz/admin.png" width="49%"/>
-</p>
 
 ---
 
 ## 🛒 Sportswiz Ecommerce
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/home.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/promotions.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/home.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/promotions.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/cart_and_products.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/admin.png" width="24%"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/cart_and_products.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/sportswiz_ecommerce/admin.png" width="49%"/>
-</p>
 
 ---
 
 ## 🛍️ Truselect
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/home.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/products.png" width="49%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/home.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/products.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/footer.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/admin.png" width="24%"/>
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/footer.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/truselect/admin.png" width="49%"/>
-</p>
 
 ---
 
 ## 🛍️ SeeCityDestination
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="25%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="25%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="25%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/admin.png" width="25%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/home.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/deals_page.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="24%"/>
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/admin.png" width="24%"/>
 </p>
-
-<!-- <p align="center">
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/video_testimonial.png" width="49%"/>
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/seecitydestination/admin.png" width="49%"/>
-</p> -->
 
 ---
 
