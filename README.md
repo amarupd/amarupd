@@ -87,7 +87,7 @@ Current Products:
 | 🏏 Sportswiz | [Visit](https://sportswiz.live) | Live Cricket Ecosystem | NestJS, Redis, RabbitMQ |
 | 🎮 MyMaster11 | [Visit](https://mymaster11.com) | Fantasy Sports Platform | Node.js, Redis, Socket.IO |
 | 📈 Opinion Trading | Private Product | Prediction Market Platform | Node.js, RabbitMQ |
-| 🛒 Sportswiz Ecommerce | [Visit](https://sportswiz.live/shop) | Ecommerce Ecosystem | Next.js, AdonisJS |
+| 🛒 Sportswiz Ecommerce | [Visit](https://shop-sportswiz.vercel.app/shop) | Ecommerce Ecosystem | Next.js, NodeJS, Adonisjs |
 | 🛍️ Truselect | [Visit](https://www.truselect.in) | Production Ecommerce Store | Next.js, Node.js |
 | 🏨 SeeCity Destination | [Visit](https://www.seecitydestination.com) | Travel Platform | React, Node.js |
 
