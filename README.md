@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/banners/hero-banner.png" width="10%" />
+<img src="https://raw.githubusercontent.com/amarupd/github-showcase/main/banners/hero-banner.png" width="100%" />
 
 # Amar Dutt Upadhyay
 
@@ -106,7 +106,7 @@ Products Delivered:
 | 📈 Opinion Trading | ![Private](https://img.shields.io/badge/Private-Internal-orange?style=flat-square) | Prediction Trading Platform |
 | 🛒 Sportswiz Ecommerce | [![Live](https://img.shields.io/badge/Live-Sportswiz-success?style=flat-square)](https://shop-sportswiz.vercel.app/shop) | Complete Ecommerce Ecosystem |
 | 🛍️ Truselect | [![Live](https://img.shields.io/badge/Live-Truselect-success?style=flat-square)](https://www.truselect.in) | Production Ecommerce Store |
-| 🏨 SeeCity Destination | [![Live](https://img.shields.io/badge/Live-SeeCity-Destination-success?style=flat-square)](https://www.seecitydestination.com) | Travel & Destination Platform |
+| 🏨 SeeCity Destination | [![Live](https://img.shields.io/badge/Live-SeeCityDestination-success?style=flat-square)](https://www.seecitydestination.com) | Travel & Destination Platform |
 
 ---
 
