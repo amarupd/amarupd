@@ -82,30 +82,14 @@ Current Products:
 
 ## 🚀 Production Platforms
 
-### 🏏 Sportswiz
-🔗 https://sportswiz.live
-
-Cricbuzz-like live cricket ecosystem built with NestJS, Redis, RabbitMQ and Socket.IO.
-
-### 🎮 MyMaster11
-🔗 https://mymaster11.com
-
-Fantasy sports platform handling contests, wallets, teams and live scoring.
-
-### 🛒 Sportswiz Ecommerce
-🔗 https://sportswiz.live/shop
-
-Full ecommerce ecosystem with storefront, checkout and admin dashboard.
-
-### 🛍️ Truselect
-🔗 https://www.truselect.in
-
-Production-grade ecommerce platform with customer and admin modules.
-
-### 🏨 SeeCity Destination
-🔗 https://www.seecitydestination.com
-
-Travel and destination management platform with CMS and booking workflows.
+| Platform | Live URL | Description | Tech |
+|-----------|----------|-------------|------|
+| 🏏 Sportswiz | [Visit](https://sportswiz.live) | Live Cricket Ecosystem | NestJS, Redis, RabbitMQ |
+| 🎮 MyMaster11 | [Visit](https://mymaster11.com) | Fantasy Sports Platform | Node.js, Redis, Socket.IO |
+| 📈 Opinion Trading | Private Product | Prediction Market Platform | Node.js, RabbitMQ |
+| 🛒 Sportswiz Ecommerce | [Visit](https://sportswiz.live/shop) | Ecommerce Ecosystem | Next.js, AdonisJS |
+| 🛍️ Truselect | [Visit](https://www.truselect.in) | Production Ecommerce Store | Next.js, Node.js |
+| 🏨 SeeCity Destination | [Visit](https://www.seecitydestination.com) | Travel Platform | React, Node.js |
 
 ---
 
