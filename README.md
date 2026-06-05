@@ -61,27 +61,22 @@ Currently focused on building next-generation digital experiences through scalab
   <a href="https://github.com/amarupd/sportswiz-case-study">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study" />
   </a>
-
   <a href="https://github.com/amarupd/ecommerce-system-design">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=ecommerce-system-design" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/amarupd/opinion-trading-architecture">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=opinion-trading-architecture" />
   </a>
-
   <a href="https://github.com/amarupd/nodejs-system-design">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=nodejs-system-design" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/amarupd/developer-portfolio">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=developer-portfolio" />
   </a>
-
   <a href="https://github.com/amarupd/certificates">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=certificates" />
   </a>
