@@ -44,6 +44,19 @@ Currently focused on building next-generation digital experiences through scalab
 
 ## 📊 GitHub Analytics
 
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Case Studies
+
 <p align="center">
   <a href="https://github.com/amarupd/sportswiz-case-study">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study" />
@@ -72,15 +85,6 @@ Currently focused on building next-generation digital experiences through scalab
   <a href="https://github.com/amarupd/certificates">
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=certificates" />
   </a>
-</p>
-
----
-
-## 📊 Case Studies
-
-<p align="center">
-  <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study" />
-  <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=ecommerce-system-design" />
 </p>
 
 ---
