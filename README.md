@@ -54,6 +54,18 @@ Currently focused on building next-generation digital experiences through scalab
 
 ---
 
+## 📊 Case Studies
+
+<p align="center">
+
+[![Sportswiz Case Study](https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study)](https://github.com/amarupd/sportswiz-case-study)
+
+[![Sportswiz Case Study](https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study)](https://github.com/amarupd/sportswiz-case-study)
+
+</p>
+
+---
+
 ## 💼 Experience Snapshot
 
 ```yaml
