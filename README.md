@@ -45,11 +45,33 @@ Currently focused on building next-generation digital experiences through scalab
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/amarupd/sportswiz-case-study">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study" />
+  </a>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=amarupd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+  <a href="https://github.com/amarupd/ ecommerce-system-design">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo= ecommerce-system-design" />
+  </a>
+</p>
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amarupd&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <a href="https://github.com/amarupd/opinion-trading-architecture">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=opinion-trading-architecture" />
+  </a>
 
+  <a href="https://github.com/amarupd/nodejs-system-design">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=nodejs-system-design" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/amarupd/developer-portfolio">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=developer-portfolio" />
+  </a>
+
+  <a href="https://github.com/amarupd/certificates">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=certificates" />
+  </a>
 </p>
 
 ---
