@@ -62,8 +62,8 @@ Currently focused on building next-generation digital experiences through scalab
     <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=sportswiz-case-study" />
   </a>
 
-  <a href="https://github.com/amarupd/ ecommerce-system-design">
-    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo= ecommerce-system-design" />
+  <a href="https://github.com/amarupd/ecommerce-system-design">
+    <img width="49%" src="https://repo.amarduttupadhyay.in/api/repo-card?username=amarupd&repo=ecommerce-system-design" />
   </a>
 </p>
 
